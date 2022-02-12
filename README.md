@@ -29,5 +29,5 @@
 <h2>Buscando novos pacientes</h2>
 
 <h1>
-    <img alt="Readme" title="Readme" src="/img/requisitando-pacientes.gif/">
+    <img alt="Readme" title="Readme" src="/img/requisitando-pacientes-api.gif/">
 </h1>
